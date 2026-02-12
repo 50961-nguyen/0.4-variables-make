@@ -1,6 +1,7 @@
 ## Setup
-1. Open VS Code. File > Open Folder > C:\Users\username\dev
-2. Create a new file called `vars_make.py` in the `make` folder
+1. Git clone this repository onto your computer, under your `make` Folder.
+2. Open VS Code. 
+2. Create a new file called `vars_make.py` in this repository.
 3. Follow the instructons.
 
 ## Instructions
@@ -9,7 +10,7 @@ Your task is going to be to write a program to calculate the area and perimeter 
 Begin by writing header comments, and three comments below the header comments, labelled # Input, # Processing, and # Output.
 
 ### Input
-Here is where you are going to ask the user to input 4 values:
+Here is where you are going to ask the user to **input** 4 values:
 
 - The radius of the circle
 - The length of the rectangle
