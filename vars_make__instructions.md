@@ -2,7 +2,7 @@
 1. Git clone this repository onto your computer, under your `make` Folder.
 2. Open VS Code. 
 2. Create a new file called `vars_make.py` in this repository.
-3. Follow the instructons.
+3. Follow the instructons. 
 
 ## Instructions
 Your task is going to be to write a program to calculate the area and perimeter of a circle, rectangle, and octagon.
